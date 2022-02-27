@@ -1,0 +1,173 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Rubik', sans-serif;
+margin:0px;
+}
+.container{
+    width:1100px;
+    margin:auto;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+header{
+    background-color:#128c7e;
+    margin:0px 0px;
+    padding:25px;
+    
+    
+}
+header img{
+    margin-right: 10px;
+}
+header a{
+    color:white;
+    margin-top:13px;
+    margin-left:60px;
+    text-decoration: none;
+}
+header .icon{
+    margin-left:10px;
+}
+.box1{
+    width:45%;
+    margin:auto;
+
+}
+.box2{
+    width:45%;
+    margin:auto;
+}
+.box2 img{
+    width:70%;
+}
+.box{
+    margin-top:60px;
+    margin-left:150px;
+}
+.box1 h1{
+    font-weight:400;
+    font-size:40px;
+    
+}
+.box1 p{
+    font-size:20px;
+    font-weight:150;
+}
+.box1 .pa{
+    color:rgb(121, 120, 120);
+    font-size:18px;
+}
+.picons{
+    margin-bottom:20px;
+}
+.picons a{
+    color:#128c7e;
+    font-size:18px;
+    text-decoration: none;
+}
+.picons .aicon{
+    margin-right:15px;
+}
+.picons .android{
+    margin-right:15px;
+}
+.picons .android:hover{
+    color:#128c7e;
+    text-decoration: underline;
+    text-decoration-color: #128c7e;
+}
+.apple_icons{
+    margin-bottom:20px;
+}
+
+.apple_icons a{
+    color:#128c7e;
+    font-size:18px;
+    text-decoration: none;
+}
+.apple_icons .apple{
+    margin-right:22px;
+
+}
+.apple_icons .apples{
+    margin-right:20px;
+
+}
+.apple_icons .apples:hover{
+    color:#128c7e;
+    text-decoration: underline;
+    text-decoration-color: #128c7e;
+}
+
+.pc a{
+    color:#128c7e;
+    font-size:18px;
+    text-decoration: none; 
+}
+.pc .mac{
+    margin-right:15px;
+
+}
+.pc .desktop{
+    margin-right:15px;
+}
+.pc .desktop:hover{
+    color:#128c7e;
+    text-decoration: underline;
+    text-decoration-color: #128c7e;
+}
+.boxa{
+    background-color: rgb(218, 229, 240);
+   
+    
+    width:30%;
+    margin:auto;
+    padding:0px 130px;
+    margin-top:50px;
+    margin-left:-90px;
+    margin-right:90px;
+
+    
+}
+.boxa h2{
+    font-size:40px;
+    
+}
+.boxa .apara{
+    font-size:18px;
+    text-align: justify;
+}
+.boxa .link1{
+    text-decoration: none;
+    color:rgb(132, 183, 235)
+}
+.boxa .link1:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(132, 183, 235);
+}
+.boxa .bpara{
+    font-size:18px;
+}
+.boxa .link2{
+    text-decoration: none;
+    color:rgb(132, 183, 235)
+}
+.boxa .link2:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(132, 183, 235);
+}
+.boxa img{
+    width:90%;
+    height:300px;
+}
+.boxb{
+    background-color: rgb(221, 180, 219);
+   
+    
+    width:30%;
+    margin:auto;
+    padding:0px 80px;
+    margin-top:50px;
+}
